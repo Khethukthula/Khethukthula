@@ -12,8 +12,8 @@
 
 Computer Science student building practical projects with a focus on clean, usable interfaces and solid code. Constantly learning, iterating, and improving.
 
-🔭 &nbsp;I'm currently working on **Backend Frame works ans Designs**  
-🌱 &nbsp;I'm currently learning **Backend Development focusin on APIs and Databases**  
+🔭 &nbsp;I'm currently working on **Backend Frame works and Designs**  
+🌱 &nbsp;I'm currently learning **Backend Development focusing on APIs and Databases**  
 👯 &nbsp;I'm looking to collaborate on **Beginner Friendly Backend Projects**  
 🤔 &nbsp;I'm looking for help with **Mobile APP Development**  
 😄 &nbsp;Pronouns: **he/him**  
